@@ -4,7 +4,7 @@ This repository contains data files and workbooks for reproducing the results pr
 
 For the Back evolution analysis, the M1 EMRI catalog of Babak et al. (https://arxiv.org/abs/1703.09722) as modified by Pozzoli et al. (https://arxiv.org/abs/2302.07043) can be obtained by contacting the authors here: Federico Pozzoli <fpozzoli@uninsubria.it>. However, we provide the resulting back evolution trajectories for our run of the M1 catalog on Zenodo: 
 
-Supporting files for the REJ1034+396 analysis have filenames "*_Msamples_OOM.txt".
+Resulting files for the REJ1034+396 analysis have filenames "*_Msamples_OOM.txt".
 
 1. The workbook partly uses the FastEMRIWaveforms (FEW) package's 5PNAAK EMRI Waveform Trajectories. It can be installed following the instructions given here: https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms
 
