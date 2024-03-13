@@ -2,6 +2,8 @@
 
 This repository contains data files and workbooks for reproducing the results presented in The Paper "Candidates For Electromagnetic Counterparts of Extreme Mass Ratio Inspirals", Kejriwal et al. (2024).
 
+The randomly back-evolved M1 catalog of Babak et al. (https://arxiv.org/abs/1703.09722) as modified by Pozzoli et al. (https://arxiv.org/abs/2302.07043) can be obtained by contacting the authors here: Federico Pozzoli <fpozzoli@uninsubria.it>
+
 1. The workbook partly uses the FastEMRIWaveforms (FEW) package's 5PNAAK EMRI Waveform Trajectories. It can be installed following the instructions given here: https://github.com/BlackHolePerturbationToolkit/FastEMRIWaveforms
 
 2. Some parts of the workbooks rely on the availability of a GPU.
